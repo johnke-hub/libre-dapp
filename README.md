@@ -40,7 +40,7 @@ Ensure you have the following packages installed on your PC:
 
 2. **Navigate to the Project Directory**
    ```sh
-   cd rollups-examples/bshelf
+   cd libre-dapp
    ```
 
 3. **Install the Required Dependencies**
