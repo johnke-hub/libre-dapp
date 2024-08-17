@@ -5,7 +5,6 @@
     "repository": "https://github.com/johnke-hub/libre-dapp",
     "author": "john stone johnstoneken71@gmail.com",
     "license": "MIT",
-    "private": true,
     "dependencies": {
         "viem": "^2.7.6"
     },
